@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Classification Project (dL)
+# 🧠 Customer Churn Classification Project
 
 ## 📌 Objective
 
